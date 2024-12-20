@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashs
 
 sudo apt-get update
 sudo apt-get install sl
